@@ -1,7 +1,4 @@
-{
-  "version": 1,
-  "dateMaj": "2026-08-13",
-  "matchs":[
+[
   {
     "equipe_locale": "Seniors A",
     "recevant": "non",
@@ -567,4 +564,3 @@
     "no_semaine": 33
   }
 ]
-}
